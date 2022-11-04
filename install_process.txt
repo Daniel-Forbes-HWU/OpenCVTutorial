@@ -1,0 +1,6 @@
+Use Python 3.10 or newer!
+
+py -m pip install opencv-contrib-python
+py -m pip install numpy
+py -m pip install matplotlib
+py -m pip install mediapipe
